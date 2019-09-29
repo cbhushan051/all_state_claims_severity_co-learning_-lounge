@@ -21,6 +21,18 @@ Numerical Feature = 14
 #After applying PCA for dimensionality reduction:
 Shape of the data = 188318 x 300
 
-Model used for regression:
+#Model used for regression:
+1. Linear Regression
+2. Ridge
+3. Lasso
+4. Elastic Regressor
+5. KNN
+6. Decision Tree
+7. SVM
+8. Extra Tress
+9. Adaboost
+10. Stochastic Gradient Boosting
+11. XGBoost
+12. MLP
 
 
